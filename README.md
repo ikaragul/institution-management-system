@@ -1,1 +1,1 @@
-# institution-management-system
+# Institution-Management-System
